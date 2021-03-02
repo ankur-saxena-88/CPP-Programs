@@ -9,10 +9,10 @@
 Sample testcase:
 
 Input:
-Hello! C++ programming is fun...
+Hello World! C++ programming is fun...
 
 Output:
-Hello! C++ programming is fun...
+Hello World! C++ programming is fun...
 */
 
 // method 1: using "get ()" command
@@ -54,3 +54,4 @@ Hello World! C++ programming is fun...
 
 Press ENTER or type command to continue
 */
+
